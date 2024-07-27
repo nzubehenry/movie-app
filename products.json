@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "LD01 Leather bag",
+        "price": 250,
+        "image": "images/1.png"
+        
+    },
+    {
+        "id": 2,
+        "name": "LD02 Leather bag",
+        "price": 200,
+        "image": "images/2.png"
+        
+    },
+    {
+        "id": 3,
+        "name": "LD03 Leather bag",
+        "price": 300,
+        "image": "images/3.png"
+        
+    },
+    {
+        "id": 4,
+        "name": "LD04 Leather bag",
+        "price": 270,
+        "image": "images/4.png"
+        
+    },
+    {
+        "id": 5,
+        "name": "LD05 Leather bag",
+        "price": 320,
+        "image": "images/5.png"
+        
+    },
+    {
+        "id": 6,
+        "name": "LD06 Leather bag",
+        "price": 200,
+        "image": "images/6.png"
+        
+    },
+    {
+        "id": 7,
+        "name": "LD07 Leather bag",
+        "price": 220,
+        "image": "images/7.png"
+        
+    },
+    {
+        "id": 8,
+        "name": "LD08 Leather bag",
+        "price": 280,
+        "image": "images/8.png"
+        
+    }
+]
